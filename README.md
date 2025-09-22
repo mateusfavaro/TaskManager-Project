@@ -71,7 +71,7 @@
   <summary><strong>Observações Importantes</strong></summary>
   <br>
 
-  - As funções de <strong>pesquisa</strong> e <strong>modificação de status</strong dependem dos dados no banco local<br>
+  - As funções de <strong>pesquisa</strong> e <strong>modificação de status</strong> dependem dos dados no banco local<br>
   - Antes de usar essas funções, clique no botão <strong>“Sincronizar Banco”</strong> no canto superior direito da página<br>
   - Isso importa os dados da API externa e insere no banco local<br>
   - Após esse passo, a API estará pronta para receber requisições<br>
