@@ -1,0 +1,39 @@
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskMana.898BD9DB.Up2Date
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.sourcelink.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\bin\Debug\net8.0\TaskManager.Exception.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskMana.898BD9DB.Up2Date
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll

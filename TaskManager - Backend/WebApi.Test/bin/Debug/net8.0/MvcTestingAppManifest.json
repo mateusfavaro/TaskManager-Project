@@ -1,0 +1,8 @@
+{
+  "TaskManager.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.API",
+  "TaskManager.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.Application",
+  "TaskManager.Communication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.Communication",
+  "TaskManager.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.Domain",
+  "TaskManager.Exception, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.Exception",
+  "TaskManager.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Mateus\\Documents\\DEV\\Workspace\\TaskManager\\TaskManager.Infrastructure"
+}

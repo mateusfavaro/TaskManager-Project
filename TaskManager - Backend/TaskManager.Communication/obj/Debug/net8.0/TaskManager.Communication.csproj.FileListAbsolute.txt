@@ -1,0 +1,23 @@
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.sourcelink.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll

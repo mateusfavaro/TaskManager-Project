@@ -1,0 +1,23 @@
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.deps.json
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\refint\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\ref\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\Workspace\TaskManager\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.sourcelink.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.deps.json
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\bin\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\refint\TaskManager.Domain.dll
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\TaskManager.Domain.pdb
+C:\Users\Mateus\Documents\DEV\BRGAAP\TaskManager - Backend\TaskManager.Domain\obj\Debug\net8.0\ref\TaskManager.Domain.dll
