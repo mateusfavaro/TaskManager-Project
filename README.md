@@ -50,6 +50,8 @@
   5. Execute o projeto:<br>
   <code>dotnet run</code><br>
   ou abra no Visual Studio e pressione <strong>F5</strong><br>
+  6. Aplique as migrations no banco de dados:<br>
+  <code>dotnet ef database update</code><br>
 
 </details>
 
